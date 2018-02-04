@@ -21,7 +21,7 @@ echo -e "\e[96m Installing php  \e[39m"
 sudo apt-get -y install php7.1 libapache2-mod-php7.1
 
 # Install some php exts
-sudo apt-get -y install curl mcrypt php7.1-mysql php7.1-mcrypt php7.1-curl php7.1-json php7.1-mbstring php7.1-gd php7.1-intl php-gettext
+sudo apt-get -y install curl mcrypt php7.1-mysql php7.1-mcrypt php7.1-curl php7.1-json php7.1-mbstring php7.1-gd php7.1-intl php-gettext php7.1-zip
 #sudo apt-get -y install php-xdebug
 sudo phpenmod mcrypt
 sudo phpenmod curl
