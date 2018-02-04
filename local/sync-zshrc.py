@@ -1,0 +1,1 @@
+/home/ivan/Repos/scripts/sync-zshrc.py
